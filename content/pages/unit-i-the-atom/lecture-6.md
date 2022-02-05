@@ -11,7 +11,24 @@ uid: c88a7a36-f1d5-0d92-1f8c-175f64643ef4
 Topics
 ------
 
-| ![]({{< resource_file c34c8fe7-4e0f-b8e9-ce9f-3776157b8c52 >}})  |  {{< br >}}{{< br >}} 1.  Wavefunctions (Orbitals) for the Hydrogen Atom{{< br >}}2.  Shape and Size of S and P Orbitals{{< br >}}3.  Electron Spin and the Pauli Exclusion Principle {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file c34c8fe7-4e0f-b8e9-ce9f-3776157b8c52 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Wavefunctions (Orbitals) for the Hydrogen Atom
+2.  Shape and Size of S and P Orbitals
+3.  Electron Spin and the Pauli Exclusion Principle
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video6" >}}{{< /anchor >}}Lecture Video
 -----------------------------------------------------------
@@ -33,11 +50,60 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Atomic Orbitals | Section 1.9 | Section 1.9 |
-| Electron Spin | Section 1.10 | Section 1.10 |
-| The Electronic Structure of Hydrogen | Section 1.11 | Section 1.11 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Atomic Orbitals
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.9
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Electron Spin
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.10
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Electronic Structure of Hydrogen
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.11
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.11
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------

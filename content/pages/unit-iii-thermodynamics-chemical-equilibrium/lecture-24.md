@@ -11,7 +11,23 @@ uid: 92c821cc-7504-7b75-ec7b-50ab1516b1b6
 Topics
 ------
 
-| ![]({{< resource_file ed156822-86b6-2727-bd7b-a26ef9e17d36 >}})  |  {{< br >}}{{< br >}} 1.  Acid-Base Titrations{{< br >}}    1.  Titration of Weak Acid with Strong Base (continued) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file ed156822-86b6-2727-bd7b-a26ef9e17d36 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Acid-Base Titrations
+    1.  Titration of Weak Acid with Strong Base (continued)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video24" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,11 +49,60 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Redox Reactions | Section K | Section K |
-| Titrations | Sections 12.4–12.6 | 11.4–11.6 |
-| Representing Redox Reactions | 13.1–13.2 | 13.1–13.2 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Redox Reactions
+{{< tdclose >}}
+{{< tdopen >}}
+Section K
+{{< tdclose >}}
+{{< tdopen >}}
+Section K
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Titrations
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 12.4–12.6
+{{< tdclose >}}
+{{< tdopen >}}
+11.4–11.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Representing Redox Reactions
+{{< tdclose >}}
+{{< tdopen >}}
+13.1–13.2
+{{< tdclose >}}
+{{< tdopen >}}
+13.1–13.2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------

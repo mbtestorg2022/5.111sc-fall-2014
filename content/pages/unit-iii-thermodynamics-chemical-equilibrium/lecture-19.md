@@ -11,7 +11,26 @@ uid: 06795698-54cc-cdb3-a6c7-13fa72200306
 Topics
 ------
 
-| ![]({{< resource_file 7458e1f2-81f1-81a5-ba12-5cef04bc45fe >}})  |  {{< br >}}{{< br >}} 1.  Chemical Equilibrium{{< br >}}    1.  External Effects on K (Le Châtlier’s Principle) (continued){{< br >}}    2.  Temperature Dependence of K{{< br >}}    3.  Applications of Le Châtlier’s Principle{{< br >}}2.  Significant Figure Rules for Logs {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 7458e1f2-81f1-81a5-ba12-5cef04bc45fe >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Chemical Equilibrium
+    1.  External Effects on K (Le Châtlier’s Principle) (continued)
+    2.  Temperature Dependence of K
+    3.  Applications of Le Châtlier’s Principle
+2.  Significant Figure Rules for Logs
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video19" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,9 +52,36 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| The Response of Equilibria to Changes in Conditions | Sections 10.9–10.13 | Sections 9.4–9.5 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Response of Equilibria to Changes in Conditions
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 10.9–10.13
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 9.4–9.5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

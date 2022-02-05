@@ -11,7 +11,25 @@ uid: 19bd276c-98fb-61bc-72af-22c0567e02a2
 Topics
 ------
 
-| ![]({{< resource_file 70f20273-f28b-4302-35bf-d08189ec3cbd >}})  |  {{< br >}}{{< br >}} 1.  Binding Energies of the Electron to the Nucleus for a Hydrogen Atom{{< br >}}2.  Verification of Hydrogen-Atom Energy Levels{{< br >}}    1.  Photon Emission{{< br >}}    2.  Photon Absorption {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 70f20273-f28b-4302-35bf-d08189ec3cbd >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Binding Energies of the Electron to the Nucleus for a Hydrogen Atom
+2.  Verification of Hydrogen-Atom Energy Levels
+    1.  Photon Emission
+    2.  Photon Absorption
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video5" >}}{{< /anchor >}}Lecture Video
 -----------------------------------------------------------
@@ -33,11 +51,60 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Atomic Spectra | Section 1.3 | Section 1.3 |
-| Wavefunctions and Energy Levels | Section 1.7 up to equation 9b | Section 1.7 up to equation 9b |
-| The Principle Quantum Number | Section 1.8 | Section 1.8 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Atomic Spectra
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.3
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wavefunctions and Energy Levels
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.7 up to equation 9b
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.7 up to equation 9b
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Principle Quantum Number
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.8
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.8
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

@@ -11,7 +11,26 @@ uid: c8f99e55-bd17-66c4-505f-19e5b26af70c
 Topics
 ------
 
-| ![]({{< resource_file 8eee3e7b-097b-f5c2-95ec-735e309fdc60 >}})  |  {{< br >}}{{< br >}} 1.  Nuclear Chemistry: Radioactive Decay{{< br >}}2.  Chemical Kinetics{{< br >}}    1.  Second Order Integrated Rate Laws{{< br >}}    2.  Relationship Between k and K{{< br >}}    3.  Elementary Steps and Molecularity {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 8eee3e7b-097b-f5c2-95ec-735e309fdc60 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Nuclear Chemistry: Radioactive Decay
+2.  Chemical Kinetics
+    1.  Second Order Integrated Rate Laws
+    2.  Relationship Between k and K
+    3.  Elementary Steps and Molecularity
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video31" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,10 +52,48 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Second-Order Integrated Rate Laws | Section 14.6 | Section 13.6 |
-| Measuring the Radiation of Nuclear Decay | Section 17.7 | Section 17.7 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second-Order Integrated Rate Laws
+{{< tdclose >}}
+{{< tdopen >}}
+Section 14.6
+{{< tdclose >}}
+{{< tdopen >}}
+Section 13.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Measuring the Radiation of Nuclear Decay
+{{< tdclose >}}
+{{< tdopen >}}
+Section 17.7
+{{< tdclose >}}
+{{< tdopen >}}
+Section 17.7
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

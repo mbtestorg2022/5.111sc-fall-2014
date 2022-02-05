@@ -11,7 +11,24 @@ uid: 3d31835d-06e0-f144-b71e-ae67819fa795
 Topics
 ------
 
-| ![]({{< resource_file edd4f83c-96c8-0e42-9689-e7209e9198f0 >}})  |  {{< br >}}{{< br >}} 1.  Introduction to Oxidation-Reduction (Redox) Reactions{{< br >}}2.  Balancing Redox Reactions{{< br >}}3.  Electrochemical Cells {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file edd4f83c-96c8-0e42-9689-e7209e9198f0 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Introduction to Oxidation-Reduction (Redox) Reactions
+2.  Balancing Redox Reactions
+3.  Electrochemical Cells
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video25" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,9 +50,36 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Galvanic and Electrolytic Cells | Sections 13.3–13.12 | Sections 12.3–12.12 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Galvanic and Electrolytic Cells
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 13.3–13.12
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 12.3–12.12
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

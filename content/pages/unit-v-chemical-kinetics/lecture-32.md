@@ -11,7 +11,22 @@ uid: 31564d9d-89a9-9686-7912-40b6ed37ef6f
 Topics
 ------
 
-| ![]({{< resource_file 41a28d07-1c10-0dbd-d44e-35c97eac2e15 >}})  |  {{< br >}}{{< br >}} 1.  Investigating Reaction Mechanisms {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 41a28d07-1c10-0dbd-d44e-35c97eac2e15 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Investigating Reaction Mechanisms
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video32" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,10 +48,48 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Reaction Mechanisms | Sections 14.7–14.8 | Sections 13.7–13.8 |
-| Rates and Equilibrium | Section 14.10 | Section 13.10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reaction Mechanisms
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 14.7–14.8
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 13.7–13.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rates and Equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+Section 14.10
+{{< tdclose >}}
+{{< tdopen >}}
+Section 13.10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

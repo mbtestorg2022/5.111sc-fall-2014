@@ -11,7 +11,24 @@ uid: 5f89679f-aa0f-ab38-a4ec-a4a166b9093f
 Topics
 ------
 
-| ![]({{< resource_file f79945bf-eea4-7ad4-63e2-a7f0b9b07a34 >}})  |  {{< br >}}{{< br >}} 1.  Lewis Structures{{< br >}}2.  Formal Charge{{< br >}}3.  Resonance Structures {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file f79945bf-eea4-7ad4-63e2-a7f0b9b07a34 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Lewis Structures
+2.  Formal Charge
+3.  Resonance Structures
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video10" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,9 +50,36 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Lewis Structures | Section 2.5–2.8 | Section 2.5–2.8 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lewis Structures
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.5–2.8
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.5–2.8
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

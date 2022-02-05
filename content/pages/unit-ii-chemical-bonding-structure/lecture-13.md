@@ -11,7 +11,25 @@ uid: 0e6db317-91e1-3ca8-0e85-5c92186dafb0
 Topics
 ------
 
-| ![]({{< resource_file 0decc4da-4730-2a5c-5305-1c6c79214350 >}})  |  {{< br >}}{{< br >}} 1.  Molecular Orbital Theory{{< br >}}    1.  Homonuclear Molecules with MOs Originating from s Orbitals{{< br >}}    2.  Homonuclear Molecules with MOs Originating from s and p Orbitals{{< br >}}    3.  Heteronuclear Diatomic Molecules {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 0decc4da-4730-2a5c-5305-1c6c79214350 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Molecular Orbital Theory
+    1.  Homonuclear Molecules with MOs Originating from s Orbitals
+    2.  Homonuclear Molecules with MOs Originating from s and p Orbitals
+    3.  Heteronuclear Diatomic Molecules
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video13" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,10 +51,48 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| The Limitations of Lewis's Theory | Section 3.8 | Section 3.8 |
-| Molecular Orbitals | Section 3.9–3.11 | Section 3.9–3.11 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Limitations of Lewis's Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Section 3.8
+{{< tdclose >}}
+{{< tdopen >}}
+Section 3.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Molecular Orbitals
+{{< tdclose >}}
+{{< tdopen >}}
+Section 3.9–3.11
+{{< tdclose >}}
+{{< tdopen >}}
+Section 3.9–3.11
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

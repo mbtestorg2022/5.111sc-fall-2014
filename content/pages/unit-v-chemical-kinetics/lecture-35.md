@@ -11,7 +11,22 @@ uid: cfdef97d-2484-c331-1143-7c192f705162
 Topics
 ------
 
-| ![]({{< resource_file e6f283be-288a-8bf1-47c5-7e02f3d526d5 >}})  |  {{< br >}}{{< br >}} 1.  Review of Course Material {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file e6f283be-288a-8bf1-47c5-7e02f3d526d5 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Review of Course Material
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video35" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------

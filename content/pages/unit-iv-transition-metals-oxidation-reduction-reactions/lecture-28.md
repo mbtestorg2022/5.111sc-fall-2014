@@ -11,7 +11,24 @@ uid: 2b3c40e8-7019-4d11-c257-ec00379e8c86
 Topics
 ------
 
-| ![]({{< resource_file af4d350d-34ab-0849-ef96-9550987d4a7c >}})  |  {{< br >}}{{< br >}} 1.  Introduction to Crystal Field Theory{{< br >}}2.  Crystal Field Theory: Octahedral Case{{< br >}}3.  Spectrochemical Series: the Ligand to the Metal Matters {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file af4d350d-34ab-0849-ef96-9550987d4a7c >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Introduction to Crystal Field Theory
+2.  Crystal Field Theory: Octahedral Case
+3.  Spectrochemical Series: the Ligand to the Metal Matters
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video28" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,9 +50,36 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| The Electronic Structures of Complexes | Sections 16.8–16.11 | Sections 16.8–16.11 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Electronic Structures of Complexes
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 16.8–16.11
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 16.8–16.11
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

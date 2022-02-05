@@ -11,7 +11,27 @@ uid: bc4e02be-0613-a6fc-db1f-e751834b8e16
 Topics
 ------
 
-| ![]({{< resource_file cd86b306-35e5-7bac-7778-c7857150e68a >}})  |  {{< br >}}{{< br >}} 1.  Valence Bond Theory and Hybridization{{< br >}}    1.  Sigma and pi Bonds{{< br >}}    2.  Hybridization of Atomic Orbitals{{< br >}}        1.  sp3 Hybridization{{< br >}}        2.  sp2 Hybridization{{< br >}}        3.  sp Hybridization {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file cd86b306-35e5-7bac-7778-c7857150e68a >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Valence Bond Theory and Hybridization
+    1.  Sigma and pi Bonds
+    2.  Hybridization of Atomic Orbitals
+        1.  sp3 Hybridization
+        2.  sp2 Hybridization
+        3.  sp Hybridization
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video14" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,9 +53,36 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Valence Bond Theory | Sections 3.4, 3.5, 3.6, and 3.7 | Sections 3.4, 3.5, 3.6, and 3.7 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Valence Bond Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 3.4, 3.5, 3.6, and 3.7
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 3.4, 3.5, 3.6, and 3.7
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

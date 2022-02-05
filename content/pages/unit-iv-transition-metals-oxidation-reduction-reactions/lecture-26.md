@@ -11,7 +11,24 @@ uid: 177e7d2c-285d-8b80-4e37-ccce474cee78
 Topics
 ------
 
-| ![]({{< resource_file 3b03d54d-9e22-6ece-0930-e783d1d2b15c >}})  |  {{< br >}}{{< br >}} 1.  Relationship between Cell Potential and Gibbs Free Energy{{< br >}}2.  Meaning of Standard Reduction Potentials{{< br >}}3.  Nernst Equation {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 3b03d54d-9e22-6ece-0930-e783d1d2b15c >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Relationship between Cell Potential and Gibbs Free Energy
+2.  Meaning of Standard Reduction Potentials
+3.  Nernst Equation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video26" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,9 +50,36 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Galvanic and Electrolytic Cells | Sections 13.6–13.12 | Sections 12.6–12.12 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Galvanic and Electrolytic Cells
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 13.6–13.12
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 12.6–12.12
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------

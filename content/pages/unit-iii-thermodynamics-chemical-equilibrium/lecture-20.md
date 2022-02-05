@@ -11,7 +11,23 @@ uid: 080258a7-91c4-feab-68e5-2d45cb5fd92e
 Topics
 ------
 
-| ![]({{< resource_file 02988e8e-708f-abc3-3bed-af3c2e25da75 >}})  |  {{< br >}}{{< br >}} 1.  Solutions and Solubility{{< br >}}2.  Classification of Acids and Bases {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 02988e8e-708f-abc3-3bed-af3c2e25da75 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Solutions and Solubility
+2.  Classification of Acids and Bases
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video20" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,10 +49,48 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Solubility | Sections 9.8–9.13 | Sections 8.8–8.13 |
-| The Nature of Acids and Bases | Sections 11.1–11.2, and 11.4–11.6 | Sections 10.1–10.2, and 10.4–10.6 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Solubility
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 9.8–9.13
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 8.8–8.13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Nature of Acids and Bases
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 11.1–11.2, and 11.4–11.6
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 10.1–10.2, and 10.4–10.6
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------

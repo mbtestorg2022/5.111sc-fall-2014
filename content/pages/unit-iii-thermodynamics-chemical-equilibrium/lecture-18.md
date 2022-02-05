@@ -11,7 +11,25 @@ uid: 76a566c6-d12e-b625-ae98-e279e812efbd
 Topics
 ------
 
-| ![]({{< resource_file a167b211-a7bf-de22-3d91-3d2fd32d6fd0 >}})  |  {{< br >}}{{< br >}} 1.  Chemical Equilibrium{{< br >}}    1.  Nature of Chemical Equilibrium{{< br >}}    2.  Meaning of the Chemical Equilibrium Constant K{{< br >}}    3.  External Effects on K (Le Châtlier's Principle) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file a167b211-a7bf-de22-3d91-3d2fd32d6fd0 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Chemical Equilibrium
+    1.  Nature of Chemical Equilibrium
+    2.  Meaning of the Chemical Equilibrium Constant K
+    3.  External Effects on K (Le Châtlier's Principle)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video18" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,9 +51,36 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Chemical Equilibrium | Sections 10.1–10.5, and 10.9 | Sections 9.1–9.4 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chemical Equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 10.1–10.5, and 10.9
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 9.1–9.4
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------

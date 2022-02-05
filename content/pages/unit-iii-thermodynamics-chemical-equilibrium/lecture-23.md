@@ -11,7 +11,24 @@ uid: 4d30b63d-cd60-89ec-bffc-fd57c80b1766
 Topics
 ------
 
-| ![]({{< resource_file 69bd40b3-c824-1027-d24c-167a359ed681 >}})  |  {{< br >}}{{< br >}} 1.  Acid-Base Titrations{{< br >}}    1.  Titration of Strong Acids and Strong Bases{{< br >}}    2.  Titration of Weak Acids / Strong Bases & Strong Acids/Weak Bases {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 69bd40b3-c824-1027-d24c-167a359ed681 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Acid-Base Titrations
+    1.  Titration of Strong Acids and Strong Bases
+    2.  Titration of Weak Acids / Strong Bases & Strong Acids/Weak Bases
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video23" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,9 +50,36 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Titrations | Sections 12.4–12.6 | Sections 11.4–11.6 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Titrations
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 12.4–12.6
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 11.4–11.6
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

@@ -11,7 +11,24 @@ uid: 2093fa03-8f0b-9e63-c680-49a3ed4867fd
 Topics
 ------
 
-| ![]({{< resource_file c9d55ebf-d6f1-d1ba-a04b-955a9cb017e5 >}})  |  {{< br >}}{{< br >}} 1.  General Course Information and Policies{{< br >}}2.  Course Material Overview{{< br >}}3.  Introduction to the 5.111 Teaching Team {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file c9d55ebf-d6f1-d1ba-a04b-955a9cb017e5 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  General Course Information and Policies
+2.  Course Material Overview
+3.  Introduction to the 5.111 Teaching Team
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video1" >}}{{< /anchor >}}Lecture Video
 -----------------------------------------------------------
@@ -30,18 +47,141 @@ Lecture Notes
 
 This material, which is a review of fundamental chemical principles, will not be explicitly covered in class. The intent of assigning this reading is to provide a review of relevant high-school-level material.
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Matter and Energy | Section A.1: pp. F1–9 | Section A.1: pp. F1–10 |
-| Section A.1: pp. F17–F21 | Section A.1: pp. F18–21 |
-| Compounds | Section C: pp. F22–28 | Section C: pp. F23–28 |
-| The Nomenclature of Compounds | Section D: pp. F29–36 | Section D: pp. F30–36 |
-| Moles and Molar Masses | Section E: pp. F37–43 | Section E: pp. F38–44 |
-| Determination of Chemical Formulas | Section F: pp. F45–50 | Section F: pp. F46–50 |
-| Mixtures and Solutions | Section G: pp. F51–58 | Section G: pp. F52–59 |
-| Chemical Equations | Section H: pp. F60–63 | Section H: pp. F61–64 |
-| Reaction Stoichiometry | Section L: pp. F85–92 | Section L: pp. F85–91 |
-| Limiting Reactants | Section M: pp. F95–103 | Section M: pp. F93–100 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Matter and Energy
+{{< tdclose >}}
+{{< tdopen >}}
+Section A.1: pp. F1–9
+{{< tdclose >}}
+{{< tdopen >}}
+Section A.1: pp. F1–10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Section A.1: pp. F17–F21
+{{< tdclose >}}
+{{< tdopen >}}
+Section A.1: pp. F18–21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Compounds
+{{< tdclose >}}
+{{< tdopen >}}
+Section C: pp. F22–28
+{{< tdclose >}}
+{{< tdopen >}}
+Section C: pp. F23–28
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Nomenclature of Compounds
+{{< tdclose >}}
+{{< tdopen >}}
+Section D: pp. F29–36
+{{< tdclose >}}
+{{< tdopen >}}
+Section D: pp. F30–36
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Moles and Molar Masses
+{{< tdclose >}}
+{{< tdopen >}}
+Section E: pp. F37–43
+{{< tdclose >}}
+{{< tdopen >}}
+Section E: pp. F38–44
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Determination of Chemical Formulas
+{{< tdclose >}}
+{{< tdopen >}}
+Section F: pp. F45–50
+{{< tdclose >}}
+{{< tdopen >}}
+Section F: pp. F46–50
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mixtures and Solutions
+{{< tdclose >}}
+{{< tdopen >}}
+Section G: pp. F51–58
+{{< tdclose >}}
+{{< tdopen >}}
+Section G: pp. F52–59
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chemical Equations
+{{< tdclose >}}
+{{< tdopen >}}
+Section H: pp. F60–63
+{{< tdclose >}}
+{{< tdopen >}}
+Section H: pp. F61–64
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reaction Stoichiometry
+{{< tdclose >}}
+{{< tdopen >}}
+Section L: pp. F85–92
+{{< tdclose >}}
+{{< tdopen >}}
+Section L: pp. F85–91
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Limiting Reactants
+{{< tdclose >}}
+{{< tdopen >}}
+Section M: pp. F95–103
+{{< tdclose >}}
+{{< tdopen >}}
+Section M: pp. F93–100
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Significant figures are important. Rules for scientific notation and significant figures are available in the back of our textbook in Appendix 1, pages A5-A6. You are also responsible for knowing the following SI prefixes: n (nano, 10\-9), μ (micro, 10\-6), m (milli, 10\-3), c (centi, 10\-2), and k (kilo, 103).
 

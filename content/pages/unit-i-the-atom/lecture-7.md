@@ -11,7 +11,23 @@ uid: 3cbec0b6-342c-45e2-19db-b316c53f0274
 Topics
 ------
 
-| ![]({{< resource_file 8bab447c-53bd-0e6a-a15b-48f68a9ca9a1 >}})  |  {{< br >}}{{< br >}} 1.  Wavefunctions and Binding Energies for Multi-electron Atoms{{< br >}}2.  Electron Configurations {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 8bab447c-53bd-0e6a-a15b-48f68a9ca9a1 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Wavefunctions and Binding Energies for Multi-electron Atoms
+2.  Electron Configurations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video7" >}}{{< /anchor >}}Lecture Video
 -----------------------------------------------------------
@@ -33,10 +49,48 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Orbital Energies (of Many-electron Atoms) | Section 1.12 | Section 1.12 |
-| The Building-Up Principle | Section 1.13 | Section 1.13 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Orbital Energies (of Many-electron Atoms)
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.12
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Building-Up Principle
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.13
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.13
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

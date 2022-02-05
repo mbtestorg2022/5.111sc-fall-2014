@@ -11,7 +11,24 @@ uid: 657cf625-0ea3-965b-7507-5d66ee3cb607
 Topics
 ------
 
-| ![]({{< resource_file 333472e0-1682-3ba0-4bd2-06c343eadd0f >}})  |  {{< br >}}{{< br >}} 1.  The Shapes of Molecules: VSEPR Theory{{< br >}}    1.  Molecules _without_ Lone Pairs{{< br >}}    2.  Molecules _with_ Lone Pairs {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 333472e0-1682-3ba0-4bd2-06c343eadd0f >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  The Shapes of Molecules: VSEPR Theory
+    1.  Molecules _without_ Lone Pairs
+    2.  Molecules _with_ Lone Pairs
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video12" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,10 +50,48 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| The Basic VSEPR Model | Section 3.1 | Section 3.1 |
-| Molecules with Lone Pairs on the Central Atom | Section 3.2 | Section 3.2 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Basic VSEPR Model
+{{< tdclose >}}
+{{< tdopen >}}
+Section 3.1
+{{< tdclose >}}
+{{< tdopen >}}
+Section 3.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Molecules with Lone Pairs on the Central Atom
+{{< tdclose >}}
+{{< tdopen >}}
+Section 3.2
+{{< tdclose >}}
+{{< tdopen >}}
+Section 3.2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------

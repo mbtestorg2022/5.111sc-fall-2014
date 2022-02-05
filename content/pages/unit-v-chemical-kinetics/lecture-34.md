@@ -11,7 +11,24 @@ uid: 105db3ee-a1cd-57ff-7cf1-74d083c0cfb3
 Topics
 ------
 
-| ![]({{< resource_file eaea9b90-9de3-7c8f-fd2d-b1ed6bd199cd >}})  |  {{< br >}}{{< br >}} 1.  Introduction to Catalysis{{< br >}}2.  Types of Catalysts{{< br >}}3.  Catalysts of Life and Enzyme Catalysis {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file eaea9b90-9de3-7c8f-fd2d-b1ed6bd199cd >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Introduction to Catalysis
+2.  Types of Catalysts
+3.  Catalysts of Life and Enzyme Catalysis
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video34" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,10 +50,48 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Catalysis | Section 14.14 | Section 13.14 |
-| Living Catalysts: Enzymes | Section 14.16 | Section 13.16 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Catalysis
+{{< tdclose >}}
+{{< tdopen >}}
+Section 14.14
+{{< tdclose >}}
+{{< tdopen >}}
+Section 13.14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Living Catalysts: Enzymes
+{{< tdclose >}}
+{{< tdopen >}}
+Section 14.16
+{{< tdclose >}}
+{{< tdopen >}}
+Section 13.16
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------

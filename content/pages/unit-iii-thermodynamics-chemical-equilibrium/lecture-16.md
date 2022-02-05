@@ -11,7 +11,25 @@ uid: 4161d4d2-b7e6-4498-f997-dfb3b69eca3c
 Topics
 ------
 
-| ![]({{< resource_file 35ea3d5a-2627-b777-1fad-5c6ca91b533d >}})  |  {{< br >}}{{< br >}} 1.  Thermodynamics{{< br >}}    1.  Spontaneous Change and Free Energy{{< br >}}    2.  Entropy{{< br >}}    3.  Free Energy of Formation {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 35ea3d5a-2627-b777-1fad-5c6ca91b533d >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Thermodynamics
+    1.  Spontaneous Change and Free Energy
+    2.  Entropy
+    3.  Free Energy of Formation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video16" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,11 +51,60 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Spontaneous Change | Section 8.1 | Section 7.1 |
-| Entropy | Sections 8.2 and 8.8 | Sections 7.2 and 7.8 |
-| Gibbs Free Energy | Sections 8.12, 8.13, and 8.15 | 7.12, 7.13, and 7.15 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spontaneous Change
+{{< tdclose >}}
+{{< tdopen >}}
+Section 8.1
+{{< tdclose >}}
+{{< tdopen >}}
+Section 7.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Entropy
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 8.2 and 8.8
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 7.2 and 7.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Gibbs Free Energy
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 8.12, 8.13, and 8.15
+{{< tdclose >}}
+{{< tdopen >}}
+7.12, 7.13, and 7.15
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

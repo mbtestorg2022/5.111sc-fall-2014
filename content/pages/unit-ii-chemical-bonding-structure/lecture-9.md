@@ -11,7 +11,28 @@ uid: 1defa0f1-c01b-a42e-057e-92fc7b1dec88
 Topics
 ------
 
-| ![]({{< resource_file 30c821c0-1665-93da-a6e1-eacf96c4abb3 >}})  |  {{< br >}}{{< br >}} 1.  Periodic Table (continued){{< br >}}    1.  Electronegativity{{< br >}}    2.  Atomic and Ionic Radii and Isoelectronic Atoms{{< br >}}2.  Bonding{{< br >}}    1.  Ionic Bonds{{< br >}}    2.  Covalent Bonding{{< br >}}    3.  Polar Covalent Bonds {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 30c821c0-1665-93da-a6e1-eacf96c4abb3 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Periodic Table (continued)
+    1.  Electronegativity
+    2.  Atomic and Ionic Radii and Isoelectronic Atoms
+2.  Bonding
+    1.  Ionic Bonds
+    2.  Covalent Bonding
+    3.  Polar Covalent Bonds
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video9" >}}{{< /anchor >}}Lecture Video
 -----------------------------------------------------------
@@ -33,11 +54,60 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Ionic Bonds | Sections 2.1–2.3 | Sections 2.1–2.3 |
-| Covalent Bonds | Sections 2.14–2.16 | Sections 2.14–2.16 |
-| Lewis Structures | Section 2.5–2.6 | Section 2.5–2.6 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ionic Bonds
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 2.1–2.3
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 2.1–2.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Covalent Bonds
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 2.14–2.16
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 2.14–2.16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lewis Structures
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.5–2.6
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.5–2.6
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------

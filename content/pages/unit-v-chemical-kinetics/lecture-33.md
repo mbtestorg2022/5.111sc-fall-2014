@@ -11,7 +11,23 @@ uid: bfdc3eed-5d1b-3d9c-e32c-f1f3c4868b27
 Topics
 ------
 
-| ![]({{< resource_file bf0340d1-f5d8-17e3-bca5-97b1ce92e410 >}})  |  {{< br >}}{{< br >}} 1.  Effect of Temperature on Reaction Rates{{< br >}}2.  The Reaction Coordinate and the Activation Complex {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file bf0340d1-f5d8-17e3-bca5-97b1ce92e410 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Effect of Temperature on Reaction Rates
+2.  The Reaction Coordinate and the Activation Complex
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video33" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,9 +49,36 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Models of Reactions | Sections 14.11–14.13 | Sections 13.11–13.13 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Models of Reactions
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 14.11–14.13
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 13.11–13.13
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

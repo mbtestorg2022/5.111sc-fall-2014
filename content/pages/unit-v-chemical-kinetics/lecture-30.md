@@ -11,7 +11,24 @@ uid: bd55059e-8b18-2feb-fb2b-c8aef5adde05
 Topics
 ------
 
-| ![]({{< resource_file 4d0d6e8e-19f1-b51c-023f-3ec3c3468842 >}})  |  {{< br >}}{{< br >}} 1.  Introduction to Kinetics{{< br >}}    1.  Rates of Chemical Reactions{{< br >}}    2.  Rate Expressions and Rate Laws {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 4d0d6e8e-19f1-b51c-023f-3ec3c3468842 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Introduction to Kinetics
+    1.  Rates of Chemical Reactions
+    2.  Rate Expressions and Rate Laws
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video30" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,9 +50,36 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Reaction Rates | Sections 14.1–14.5 | Sections 13.1–13.5 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reaction Rates
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 14.1–14.5
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 13.1–13.5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

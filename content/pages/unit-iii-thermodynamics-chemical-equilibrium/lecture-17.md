@@ -11,7 +11,26 @@ uid: 74d44776-ec12-7476-168b-e0f074e4269b
 Topics
 ------
 
-| ![]({{< resource_file 4e39e3da-6e9d-2288-e23f-1bb3fc0179f6 >}})  |  {{< br >}}{{< br >}} 1.  Thermodynamics{{< br >}}    1.  Effect of Temperature on Spontaneity{{< br >}}    2.  Thermodynamics in Biological Systems{{< br >}}        1.  Hydrogen-bonding{{< br >}}        2.  ATP-coupled Reactions {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 4e39e3da-6e9d-2288-e23f-1bb3fc0179f6 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Thermodynamics
+    1.  Effect of Temperature on Spontaneity
+    2.  Thermodynamics in Biological Systems
+        1.  Hydrogen-bonding
+        2.  ATP-coupled Reactions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video17" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,9 +52,36 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Gibbs Free-Energy Changes in Biological Systems | Section 8.16 | Section 7.16 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Gibbs Free-Energy Changes in Biological Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Section 8.16
+{{< tdclose >}}
+{{< tdopen >}}
+Section 7.16
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------

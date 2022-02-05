@@ -11,7 +11,25 @@ uid: bbd6f3cb-d22b-a979-f3c5-3baa993e82b8
 Topics
 ------
 
-| ![]({{< resource_file 191d5f0b-3806-4d6a-80d1-69d6c2020493 >}})  |  {{< br >}}{{< br >}} 1.  Breakdown of the Octet Rule{{< br >}}    1.  Odd Number of Valence Electrons{{< br >}}    2.  Octet Deficient Molecules{{< br >}}    3.  Valence Shell Expansion {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 191d5f0b-3806-4d6a-80d1-69d6c2020493 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Breakdown of the Octet Rule
+    1.  Odd Number of Valence Electrons
+    2.  Octet Deficient Molecules
+    3.  Valence Shell Expansion
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video11" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,12 +51,72 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Radicals and Biradicals | Section 2.9 | Section 2.9 |
-| Expanded Valence Shells | Section 2.10 | Section 2.10 |
-| The Unusual Structures of Some Group 13 / III Compounds | Section 2.11 | Section 2.11 |
-| Correcting the Covalent Model: Electronegativity | Section 2.12 | Section 2.12 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Radicals and Biradicals
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.9
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Expanded Valence Shells
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.10
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Unusual Structures of Some Group 13 / III Compounds
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.11
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Correcting the Covalent Model: Electronegativity
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.12
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.12
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

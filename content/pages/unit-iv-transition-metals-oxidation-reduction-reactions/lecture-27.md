@@ -11,7 +11,24 @@ uid: c49bcae2-0a4c-a2c2-df6f-fcf549f3c5f3
 Topics
 ------
 
-| ![]({{< resource_file 06337701-e25b-8505-de81-64455c04c620 >}})  |  {{< br >}}{{< br >}} 1.  d-Block Metals or Transition Metals{{< br >}}2.  Coordination Complexes (Chelate Effect, Shapes, Isomers){{< br >}}3.  d-Orbital Counting and d-Orbitals {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 06337701-e25b-8505-de81-64455c04c620 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  d-Block Metals or Transition Metals
+2.  Coordination Complexes (Chelate Effect, Shapes, Isomers)
+3.  d-Orbital Counting and d-Orbitals
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video27" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,9 +50,36 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Coordinating Compounds | Sections 16.5–16.7 | Sections 16.5–16.7 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Coordinating Compounds
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 16.5–16.7
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 16.5–16.7
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------

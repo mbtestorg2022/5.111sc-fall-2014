@@ -11,7 +11,25 @@ uid: 09ecdc68-87c9-427d-73c0-edb2dab5283c
 Topics
 ------
 
-| ![]({{< resource_file c599ecc6-d03c-ac9c-8d9d-2bc1f689f625 >}})  |  {{< br >}}{{< br >}} 1.  Thermodynamics{{< br >}}    1.  Bond Energy / Bond Enthalpy (∆HB){{< br >}}    2.  Enthalpies of Reaction (∆Hr){{< br >}}    3.  Methods to Calculate ∆Hr {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file c599ecc6-d03c-ac9c-8d9d-2bc1f689f625 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Thermodynamics
+    1.  Bond Energy / Bond Enthalpy (∆HB)
+    2.  Enthalpies of Reaction (∆Hr)
+    3.  Methods to Calculate ∆Hr
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video15" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,9 +51,36 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| The Enthalpy of Chemical Change | Sections 7.13, 7.15, 7.16, 7.17, 7.18, and 7.20 | Sections 6.13, 6.15, 6.16, 6.17, 6.18, and 6.20 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Enthalpy of Chemical Change
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 7.13, 7.15, 7.16, 7.17, 7.18, and 7.20
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 6.13, 6.15, 6.16, 6.17, 6.18, and 6.20
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

@@ -11,7 +11,23 @@ uid: 3967bba5-a7b0-073a-cd9a-c713fa2d59eb
 Topics
 ------
 
-| ![]({{< resource_file 127de415-cbe7-9d26-66a6-63b56de9407f >}})  |  {{< br >}}{{< br >}} 1.  pH of Salt Solutions{{< br >}}2.  Buffers! {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 127de415-cbe7-9d26-66a6-63b56de9407f >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  pH of Salt Solutions
+2.  Buffers!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video22" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,10 +49,48 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Autoprotolysis and pH | Sections 11.13 and 11.18–11.19 | Sections 10.13 and 10.18–10.19 |
-| Mixed Solutions and Buffers | Sections 12.1–12.3 | Sections 11.1–11.3 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Autoprotolysis and pH
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 11.13 and 11.18–11.19
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 10.13 and 10.18–10.19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mixed Solutions and Buffers
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 12.1–12.3
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 11.1–11.3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------

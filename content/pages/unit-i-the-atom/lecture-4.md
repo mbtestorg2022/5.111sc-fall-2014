@@ -11,7 +11,24 @@ uid: 6c42d420-7daa-f98f-42f3-cf4c8b25c652
 Topics
 ------
 
-| ![]({{< resource_file 030c4501-67ae-4d83-deaa-71626be2bb92 >}})  |  {{< br >}}{{< br >}} 1.  Light as a Particle (continued){{< br >}}2.  Matter as a Wave{{< br >}}3.  The Schrödinger Equation {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 030c4501-67ae-4d83-deaa-71626be2bb92 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Light as a Particle (continued)
+2.  Matter as a Wave
+3.  The Schrödinger Equation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video4" >}}{{< /anchor >}}Lecture Video
 -----------------------------------------------------------
@@ -33,10 +50,48 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| The Wave-Particle Duality of Matter | Section 1.5 | Section 1.5 |
-| The Uncertainty Principle | Section 1.6 | Section 1.6 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Wave-Particle Duality of Matter
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.5
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Uncertainty Principle
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.6
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.6
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------

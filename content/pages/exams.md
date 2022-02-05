@@ -42,12 +42,12 @@ You are responsible for knowing the following guidelines for relative MO energie
 
 For **homo**nuclear diatomic molecules:
 
-*   The relative E ordering is πpx and πpy < σpz if Z < 8.
-*   The relative E ordering is σpz < πpx and πpy if Z = or > 8 for any row two elements and other examples we will see in this course (or on the exam).
+*   The relative E ordering is πpx and πpy \< σpz if Z \< 8.
+*   The relative E ordering is σpz \< πpx and πpy if Z = or > 8 for any row two elements and other examples we will see in this course (or on the exam).
 
 For **hetero**nuclear diatomic molecules:
 
-*   The relative E ordering is πpx and πpy < σpz if Z < 8 for both atoms.
+*   The relative E ordering is πpx and πpy \< σpz if Z \< 8 for both atoms.
 *   You are not responsible for predicting the energy level ordering if either one of the atoms has Z = or > 8.
 
 For MO diagrams,

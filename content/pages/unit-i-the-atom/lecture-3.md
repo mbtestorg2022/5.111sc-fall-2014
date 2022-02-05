@@ -11,7 +11,23 @@ uid: bac5bfe2-3ea5-e2c1-fbfb-f345a7d17bda
 Topics
 ------
 
-| ![]({{< resource_file 078998c1-3433-fa2f-cbf3-23d2a0197d85 >}})  |  {{< br >}}{{< br >}} 1.  Light as a Wave, Characteristics of Waves{{< br >}}2.  Light as a Particle, The Photoelectric Effect {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 078998c1-3433-fa2f-cbf3-23d2a0197d85 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Light as a Wave, Characteristics of Waves
+2.  Light as a Particle, The Photoelectric Effect
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video3" >}}{{< /anchor >}}Lecture Video
 -----------------------------------------------------------
@@ -33,10 +49,48 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| The Characteristics of Electromagnetic Radiation | Section 1.2 – focus on pp. 10–12 | Section 1.2 – focus on pp. 10–12 |
-| Radiation, Quanta, and Photons | Section 1.4 – focus on pp. 10–12 | Section 1.4 – focus on pp. 10–12 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Characteristics of Electromagnetic Radiation
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.2 – focus on pp. 10–12
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.2 – focus on pp. 10–12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Radiation, Quanta, and Photons
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.4 – focus on pp. 10–12
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.4 – focus on pp. 10–12
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------

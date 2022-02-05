@@ -11,7 +11,24 @@ uid: 1f4d2b01-7442-13a2-4431-1f67ec24ecae
 Topics
 ------
 
-| ![]({{< resource_file 47b1c287-f5b5-4b79-376b-22a21355a706 >}})  |  {{< br >}}{{< br >}} 1.  Definitions and Relationships between pKw, pH, and pOH{{< br >}}2.  Strengths of Acids and Bases{{< br >}}3.  Equilibrium Acid-Base Problems (Weak Acids and Weak Bases) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![]({{< resource_file 47b1c287-f5b5-4b79-376b-22a21355a706 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Definitions and Relationships between pKw, pH, and pOH
+2.  Strengths of Acids and Bases
+3.  Equilibrium Acid-Base Problems (Weak Acids and Weak Bases)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Lecture_Video21" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
@@ -33,10 +50,48 @@ Clicker Questions
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
 
-| TOPICS | 5th EDITION | 4th EDITION |
-| --- | --- | --- |
-| Weak Acids and Bases | Sections 11.7–11.9 | Sections 10.7–10.9 |
-| The pH of Solutions of Weak Acids and Bases | Sections 11.11–11.13 | Sections 10.11–10.13 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+5th EDITION
+{{< thclose >}}
+{{< thopen >}}
+4th EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weak Acids and Bases
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 11.7–11.9
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 10.7–10.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The pH of Solutions of Weak Acids and Bases
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 11.11–11.13
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 10.11–10.13
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problems and Solutions
 ----------------------
