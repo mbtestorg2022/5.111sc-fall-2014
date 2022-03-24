@@ -44,7 +44,7 @@ In this lecture, we complete the discussion of the periodic table and start to c
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 9 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec9)
+[Notes for Lecture 9 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec9)
 
 Clicker Questions
 -----------------

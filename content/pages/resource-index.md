@@ -304,7 +304,7 @@ There are no Behind the Scenes Videos for this topic.
 [Lecture Video 9: Periodic Table; Ionic and Covalent Bonds]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-9#Lecture_Video9)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 9 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec9)
+[Notes for Lecture 9 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec9)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lecture 9 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec9clkr)

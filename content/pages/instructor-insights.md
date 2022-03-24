@@ -44,7 +44,7 @@ In the following videos, Professor Catherine Drennan describes various aspects o
     *   [Diversity Training: Introduction Video]({{< baseurl >}}/resources/diversity-training-introduction-video)
     *   [Diversity Training: Addressing Stereotype Threat in the Classroom]({{< baseurl >}}/resources/diversity-training-addressing-stereotype-threat-in-the-classroom)
         *   [Presentation Slides](http://drennan.mit.edu/education/education-interests/teacher-and-mentor-training/#Diversity-Training)
-        *   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Pamphlet (PDF)](http://drennan.mit.edu/wp-content/uploads/2018/03/Reading.pdf)
+        *   [Pamphlet (PDF)](http://drennan.mit.edu/wp-content/uploads/2018/03/Reading.pdf)
 
 Curriculum Information
 ----------------------
