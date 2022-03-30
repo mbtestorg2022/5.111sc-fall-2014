@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1eb2fd82-4dc0-2f22-bc85-743316b46947
 resourcetype: Image
 title: video screenshot
 uid: 9424f038-1500-90d6-e022-c087f29c0dd3

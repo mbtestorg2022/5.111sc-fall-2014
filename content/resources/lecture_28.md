@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Image excerpted from Lecture 28 Notes
+parent_uid: 2b3c40e8-7019-4d11-c257-ec00379e8c86
 resourcetype: Image
 title: Lecture_28.jpg
 uid: af4d350d-34ab-0849-ef96-9550987d4a7c

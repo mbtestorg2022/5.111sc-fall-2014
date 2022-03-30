@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Image excerpted from Lecture 16 Notes
+parent_uid: 4161d4d2-b7e6-4498-f997-dfb3b69eca3c
 resourcetype: Image
 title: Lecture_16.jpg
 uid: 35ea3d5a-2627-b777-1fad-5c6ca91b533d

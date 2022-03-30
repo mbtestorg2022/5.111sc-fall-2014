@@ -4,6 +4,7 @@ description: 'This resource contains information regarding Transition Metals: Cr
   Field Theory Part II.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-111sc-principles-of-chemical-science-fall-2014/4df217cbe8a6d4b7c3423cd3dc665ff0_MIT5_111F14_Lec29Clkr.pdf
 file_type: application/pdf
+parent_uid: 89863654-3b84-26a3-a530-91cb22239ee9
 resourcetype: Document
 title: 'Principles of Chemical Science, Clicker Questions for Lecture 29: Transition
   Metals: Crystal Field Theory Part II'
